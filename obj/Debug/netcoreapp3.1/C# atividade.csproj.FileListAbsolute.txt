@@ -1,0 +1,13 @@
+C:\Users\ldiniz\Desktop\C# atividade\bin\Debug\netcoreapp3.1\C# atividade.exe
+C:\Users\ldiniz\Desktop\C# atividade\bin\Debug\netcoreapp3.1\C# atividade.deps.json
+C:\Users\ldiniz\Desktop\C# atividade\bin\Debug\netcoreapp3.1\C# atividade.runtimeconfig.json
+C:\Users\ldiniz\Desktop\C# atividade\bin\Debug\netcoreapp3.1\C# atividade.runtimeconfig.dev.json
+C:\Users\ldiniz\Desktop\C# atividade\bin\Debug\netcoreapp3.1\C# atividade.dll
+C:\Users\ldiniz\Desktop\C# atividade\bin\Debug\netcoreapp3.1\C# atividade.pdb
+C:\Users\ldiniz\Desktop\C# atividade\obj\Debug\netcoreapp3.1\C# atividade.csprojAssemblyReference.cache
+C:\Users\ldiniz\Desktop\C# atividade\obj\Debug\netcoreapp3.1\C# atividade.AssemblyInfoInputs.cache
+C:\Users\ldiniz\Desktop\C# atividade\obj\Debug\netcoreapp3.1\C# atividade.AssemblyInfo.cs
+C:\Users\ldiniz\Desktop\C# atividade\obj\Debug\netcoreapp3.1\C# atividade.csproj.CoreCompileInputs.cache
+C:\Users\ldiniz\Desktop\C# atividade\obj\Debug\netcoreapp3.1\C# atividade.dll
+C:\Users\ldiniz\Desktop\C# atividade\obj\Debug\netcoreapp3.1\C# atividade.pdb
+C:\Users\ldiniz\Desktop\C# atividade\obj\Debug\netcoreapp3.1\C# atividade.genruntimeconfig.cache
