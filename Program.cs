@@ -6,8 +6,8 @@ namespace C__atividade
     {
         static void Main(string[] args)
         {
-            int n = 11;
-            for (int i = 0 ; i < n ; i++){
+            int n = 10;
+            for (int i = 0 ; i <= n ; i++){
                 int x = 8 * i;
                 System.Console.WriteLine($"8x{i} = {x}");
             }
